@@ -31,7 +31,8 @@
     <main>
         <section id="about">
             <h2>O konferencii</h2>
-            <p>Vitajte na konferencii MASAM 2024, ktorá sa bude konať v Trnave. Táto konferencia je zameraná na najnovšie trendy a výskum v oblasti strojárstva a technológií.</p>
+            <p>Vitajte na konferencii MASAM 2024, ktorá sa bude konať v Trnave. Táto konferencia je zameraná na najnovšie trendy a výskum v oblasti strojárstva a technológií. Počas troch dní budú prebiehať prednášky, workshopy a diskusie na rôzne témy spojené s inováciami a výskumom v strojárstve.</p>
+            <p>Konferencia poskytuje priestor pre odborníkov, výskumníkov a študentov na zdieľanie svojich poznatkov a skúseností. Je to príležitosť pre vytvorenie nových partnerstiev a spoluprác.</p>
         </section>
         <section id="program">
             <h2>Program</h2>
@@ -39,7 +40,21 @@
         </section>
         <section id="registration">
             <h2>Registrácia</h2>
-            <p>Informácie o registrácii...</p>
+            <form>
+                <label for="name">Meno:</label>
+                <input type="text" id="name" name="name"><br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"><br><br>
+                <label for="institution">Inštitúcia:</label>
+                <input type="text" id="institution" name="institution"><br><br>
+                <label for="payment">Platba:</label>
+                <select id="payment" name="payment">
+                    <option value="student">Študent - 50 EUR</option>
+                    <option value="academic">Akademik - 100 EUR</option>
+                    <option value="professional">Profesionál - 150 EUR</option>
+                </select><br><br>
+                <input type="submit" value="Registrovať sa">
+            </form>
         </section>
         <section id="authors">
             <h2>Pokyny pre autorov</h2>
@@ -61,8 +76,5 @@
     <footer>
         <p>&copy; 2024 Konferencia MASAM. Všetky práva vyhradené.</p>
     </footer>
-</body>
-</html>
-
 </body>
 </html>
