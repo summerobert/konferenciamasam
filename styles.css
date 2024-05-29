@@ -111,6 +111,13 @@ footer {
     bottom: 0;
 }
 
+.main-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
 @media screen and (max-width: 768px) {
     .header-container {
         flex-direction: column;
