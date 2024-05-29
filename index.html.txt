@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Konferencia Trnava 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <h1>Konferencia Trnava 2024</h1>
+            <p>1. - 3. mája 2024, Trnava</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">O konferencii</a></li>
+                <li><a href="#program">Program</a></li>
+                <li><a href="#registration">Registrácia</a></li>
+                <li><a href="#authors">Pokyny pre autorov</a></li>
+                <li><a href="#partners">Partneri</a></li>
+                <li><a href="#gallery">Fotogaléria</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>O konferencii</h2>
+            <p>Úvodné informácie o konferencii...</p>
+        </section>
+        <section id="program">
+            <h2>Program</h2>
+            <p>Detailný denný program...</p>
+        </section>
+        <section id="registration">
+            <h2>Registrácia</h2>
+            <p>Informácie o registrácii...</p>
+        </section>
+        <section id="authors">
+            <h2>Pokyny pre autorov</h2>
+            <p>Požiadavky na príspevky...</p>
+        </section>
+        <section id="partners">
+            <h2>Partneri</h2>
+            <p>Zoznam partnerov a sponzorov...</p>
+        </section>
+        <section id="gallery">
+            <h2>Fotogaléria</h2>
+            <p>Fotografie z minulých ročníkov...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Konferencia Trnava. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
