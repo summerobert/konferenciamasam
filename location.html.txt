@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Trnava a Ubytovanie - Konferencia MASAM R&D 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <img src="logo.png" alt="MASAM Logo">
+            </div>
+            <div class="header-text">
+                <h1>Konferencia MASAM R&D 2024</h1>
+                <p>1. - 3. novembra 2024, Trnava</p>
+            </div>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">O konferencii</a></li>
+            <li><a href="program.html">Program</a></li>
+            <li><a href="registration.html">Registrácia</a></li>
+            <li><a href="authors.html">Pokyny pre autorov</a></li>
+            <li><a href="partners.html">Partneri</a></li>
+            <li><a href="gallery.html">Fotogaléria</a></li>
+            <li><a href="location.html">Trnava a Ubytovanie</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="location">
+            <h2>Trnava a Ubytovanie</h2>
+            <h3>O Trnave</h3>
+            <p>Trnava je historické mesto na západe Slovenska, známe svojimi krásnymi kostolmi, historickými pamiatkami a bohatou kultúrnou tradíciou. Je to jedno z najstarších miest na Slovensku a často je nazývané "Malý Rím" vďaka svojmu množstvu kostolov a sakrálnych stavieb.</p>
+            
+            <h3>Ubytovanie</h3>
+            <p>Pre účastníkov konferencie odporúčame nasledujúce hotely:</p>
+            <ul>
+                <li><strong>Hotel Trnava:</strong> Moderný hotel v centre mesta s pohodlnými izbami a výbornými službami.</li>
+                <li><strong>Penzión Lux:</strong> Rodinný penzión s priateľskou atmosférou a výhodnou polohou blízko centra.</li>
+                <li><strong>Hotel Relax:</strong> Hotel s wellness centrom a výbornou reštauráciou, ideálny pre oddych po konferenčných aktivitách.</li>
+            </ul>
+            <p>Rezerváciu ubytovania môžete uskutočniť priamo na webových stránkach uvedených hotelov. Odporúčame rezervovať si ubytovanie čo najskôr, keďže kapacity sú obmedzené.</p>
+            
+            <h3>Mapa</h3>
+            <p>Pre lepšiu orientáciu si môžete pozrieť mapu Trnavy s vyznačenými dôležitými miestami, ako sú konferenčné priestory, hotely a turistické atrakcie.</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.549938318071!2d17.58723231565111!3d48.377949979244075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476cfa39e1d0e45f%3A0x400f7d1c6976210!2sTrnava%2C%20Slovakia!5e0!3m2!1sen!2sus!4v1618300021435!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Konferencia MASAM R&D. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
