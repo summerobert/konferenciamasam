@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Pokyny pre autorov - Konferencia MASAM R&D 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <img src="logo.png" alt="MASAM Logo">
+            </div>
+            <div class="header-text">
+                <h1>Konferencia MASAM R&D 2024</h1>
+                <p>1. - 3. novembra 2024, Trnava</p>
+            </div>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">O konferencii</a></li>
+            <li><a href="program.html">Program</a></li>
+            <li><a href="registration.html">Registrácia</a></li>
+            <li><a href="authors.html">Pokyny pre autorov</a></li>
+            <li><a href="partners.html">Partneri</a></li>
+            <li><a href="gallery.html">Fotogaléria</a></li>
+            <li><a href="location.html">Trnava a Ubytovanie</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="instructions">
+            <h2>Pokyny pre autorov</h2>
+            <h3>Formát príspevku</h3>
+            <p>Príspevky musia byť vo formáte PDF a musia dodržiavať štandardné šablóny konferencie. Maximálna dĺžka príspevku je 8 strán vrátane obrázkov a referencií.</p>
+            
+            <h3>Štruktúra príspevku</h3>
+            <ul>
+                <li><strong>Titulná strana:</strong> Názov príspevku, mená autorov, ich afiliácie a kontaktné údaje.</li>
+                <li><strong>Abstrakt:</strong> Krátky súhrn hlavného cieľa a výsledkov príspevku (maximálne 300 slov).</li>
+                <li><strong>Kľúčové slová:</strong> 3-5 kľúčových slov.</li>
+                <li><strong>Úvod:</strong> Prehľad témy a stanovenie výskumného problému.</li>
+                <li><strong>Metodológia:</strong> Opis použitej metodológie a postupov.</li>
+                <li><strong>Výsledky:</strong> Prezentácia hlavných výsledkov výskumu.</li>
+                <li><strong>Diskusia:</strong> Analýza výsledkov a ich význam.</li>
+                <li><strong>Záver:</strong> Zhrnutie hlavných zistení a návrhy pre budúci výskum.</li>
+                <li><strong>Referencie:</strong> Zoznam všetkých citovaných prác.</li>
+            </ul>
+
+            <h3>Termíny a registrácia</h3>
+            <p>Termín na odoslanie príspevkov je 1. októbra 2024. Všetci autori musia byť zaregistrovaní na konferencii. Pre registráciu použite <a href="registration.html">tento formulár</a>.</p>
+
+            <h3>Kontakt</h3>
+            <p>Pre ďalšie informácie alebo otázky kontaktujte organizačný výbor na emailovej adrese <a href="mailto:info@konferenciamasam.sk">info@konferenciamasam.sk</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Konferencia MASAM R&D. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
