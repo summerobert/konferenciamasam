@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: white;
 }
 
 header {
@@ -32,7 +32,7 @@ header .header-text h1 {
 }
 
 nav {
-    background-color: #d2232a;
+    background-color: #E51F29;
     text-align: center;
 }
 
@@ -64,13 +64,13 @@ section {
 }
 
 section h2 {
-    color: #d2232a;
-    border-bottom: 2px solid #d2232a;
+    color: #E51F29;
+    border-bottom: 2px solid #E51F29;
     padding-bottom: 0.5rem;
 }
 
 form {
-    background-color: #fff;
+    background-color: #6D6E71;
     padding: 1rem;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -79,7 +79,7 @@ form {
 form label {
     display: block;
     margin-bottom: 0.5rem;
-    color: #333;
+    color: white;
 }
 
 form input, form select {
@@ -91,7 +91,7 @@ form input, form select {
 }
 
 form input[type="submit"] {
-    background-color: #d2232a;
+    background-color: #E51F29;
     color: white;
     border: none;
     cursor: pointer;
